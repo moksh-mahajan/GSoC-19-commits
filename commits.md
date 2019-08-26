@@ -12,10 +12,8 @@
 10. https://github.com/openMF/android-client/pull/1104
 11. https://github.com/openMF/android-client/pull/1098
 12. https://github.com/openMF/android-client/pull/1095
-13. Android client Navigation bar bug fix
-14. Fingerprint Authentication
-
 
 ## Commits made to Mifos Passcode Library: 
+
 1. https://github.com/openMF/mifos-passcode/pull/25
 2. https://github.com/openMF/mifos-passcode/pull/26
